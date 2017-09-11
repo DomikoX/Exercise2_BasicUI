@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise2_BasicUI</string>
+    <string name="spaghetti">Spaghetti</string>
+    <string name="f_a_ch">fish and chips</string>
+    <string name="steak">Steak</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="bread">Bread</string>
+    <string name="select">Select</string>
+</resources>
